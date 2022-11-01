@@ -45,7 +45,7 @@ main()
 			break;
 		default:
 			{
-				printf("Err");
+				printf("Error");
 			}
 	}
 		
